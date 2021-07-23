@@ -1,0 +1,7 @@
+{
+  "name": "cleanNodeApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Gabriel Pancheski <jgabrielpancheski@gmail.com>",
+  "license": "MIT"
+}
